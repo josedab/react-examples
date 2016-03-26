@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "news",
+    "style": "sass",
+    "postcss": true
+  }
+}
